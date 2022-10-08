@@ -1,5 +1,5 @@
 # pax-anonimi-db
-`pax-anonimi-db` is a layer on top of SQLite that allows to stores data as fully encrypted incremental database operations in independent files.
+`pax-anonimi-db` is a layer on top of SQLite that allows to store data as fully encrypted incremental database operations in independent files.
 
 It allows you to use SQLite in projects that require a database that can be readily synced, end-to-end encrypted, between different clients on file systems that do not support file modifications (such as Amazon S3).
 
